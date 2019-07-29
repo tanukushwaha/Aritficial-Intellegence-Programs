@@ -1,4 +1,4 @@
-// Aritficial-Intellegence-Programs
+//pyhton implementation of A* algorithm
 from __future__ import print_function
 import matplotlib.pyplot as plt
  
@@ -101,3 +101,4 @@ if __name__=="__main__":
 	plt.xlim(-1,8)
 	plt.ylim(-1,8)
 	plt.show()
+Output:
