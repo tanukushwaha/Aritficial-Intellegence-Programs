@@ -1,2 +1,2 @@
 # Aritficial-Intellegence-Programs
-Programs related to the AI(Artificial Intellegnece) and their implementations are there in this repository.
+Programs related to the AI(Artificial Intellegnece) and Problems and their pyhton implementations are there in this repository.
